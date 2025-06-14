@@ -2,5 +2,5 @@
 
 ## 🖥️ Web Interface
 <div align="center">
-  <img src="./static/image/gemstoneui.png" alt="Web Application Screenshot" width="800">
+  <img src="./images/gemstoneui.png" alt="Web Application Screenshot" width="800">
 </div>
